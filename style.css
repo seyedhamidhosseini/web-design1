@@ -1,0 +1,20 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.blue {
+    width: 1500px;
+    height: 350px;
+}
+
+.red {
+    width: 1500px;
+    height: 350px;
+}
+
+.btn-secondary {
+    margin-left: 650px;
+    height: 40px;
+    width: 100px;
+}
